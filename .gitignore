@@ -1,0 +1,7 @@
+__pycache__/
+user_uploads/
+*.mp4
+*.zip
+*.pkl
+*.h5
+*.db
